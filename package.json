@@ -22,5 +22,7 @@
   "devDependencies": {
     "testing": "https://github.com/jeffallen6767/testing.git"
   },
-  "dependencies": {}
+  "dependencies": {
+    "bignumber.js": "^4.0.3"
+  }
 }
